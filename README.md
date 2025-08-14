@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner">
+  <img src="LinkedIn Data Analyst Banner.png" alt="Banner">
 </p>
 
 # Hi, I'm Jevaughn Newman  
