@@ -2,7 +2,7 @@
   <img src="LinkedIn Data Analyst Banner.png" alt="Banner">
 </p>
 
-# Hi, I'm Jevaughn Newman  
+Hi, I'm Jevaughn Newman  
 Data Analyst with 6 years of experience in insurance | Power BI · SQL · Tableau  
 🎨 Portfolio: https://www.datascienceportfol.io/jevaughnnewman
 
